@@ -1,0 +1,20 @@
+{
+  "name": "vouch-scam-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord pour gérer vouches et reports de scam — messages en embeds, admins et blacklist. (discord.js v14+)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "deploy-commands": "node deploy-commands.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

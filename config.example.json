@@ -1,0 +1,19 @@
+{
+  "buyerId": "REPLACE_WITH_BUYER_ID",
+  "botName": "VouchScamBot",
+  "prefix": ".",
+  "rateLimit": {
+    "count": 3,
+    "windowSec": 60
+  },
+  "embed": {
+    "color": {
+      "vouch": 3066993,
+      "scam": 15158332,
+      "admin": 3447003,
+      "warning": 15965202
+    },
+    "thumbnailUrl": "https://i.imgur.com/rdm3W9t.png",
+    "bannerUrl": "https://i.imgur.com/1J3QX2s.png"
+  }
+}

@@ -1,0 +1,1 @@
+Les logs sont écrits dans logs/app.log via append. Ne pas committer.
