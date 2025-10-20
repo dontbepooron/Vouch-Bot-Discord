@@ -2,7 +2,7 @@
 # Vouch & Scam Bot — Discord (FR)
 
 **But** : Bot Discord (discord.js v14+) spécialisé pour gérer **vouches** et **reports de scam**.
-Tous les messages envoyés par le bot sont des **embeds** stylés.
+Tous les messages envoyés par le bot sont des **embeds**.
 
 ## Prérequis
 - Node.js >= 18
